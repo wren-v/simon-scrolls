@@ -3,7 +3,7 @@ A side scrolling take on the 1980s Electronic Simon!
 
 ## Gameplay
 
-![Simon Scrolls Splashscreen](images/splash.png?raw=true "How to Play!")
+![Simon Scrolls Splashscreen](images/howtoplay.png?raw=true "How to Play!")
 
 ## Technology
 
